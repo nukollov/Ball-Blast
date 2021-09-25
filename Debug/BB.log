@@ -1,0 +1,20 @@
+﻿  Source_new.cpp
+F:\KR\BB\Ball.h(19,25): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Ball.h(19,22): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(94,34): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(110,52): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(110,34): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(194,53): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(194,40): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(203,16): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\KR\BB\Source_new.cpp(232,54): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(232,36): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(269,32): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(280,35): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(281,49): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(307,29): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(316,32): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(317,46): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+F:\KR\BB\Source_new.cpp(296): warning C4715:  draw_pause: значение возвращается не при всех путях выполнения
+F:\KR\BB\Source_new.cpp(246): warning C4715:  game: значение возвращается не при всех путях выполнения
+  BB.vcxproj -> F:\KR\BB\Debug\BB.exe
